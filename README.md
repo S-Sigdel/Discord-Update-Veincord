@@ -19,6 +19,8 @@ chmod +x discord-update.sh
 ```bash
 ./discord-update.sh
 ```
+## Veincord
+the script at last auto-reinstalls veincord. As in linux, everytime the discord app is updated, the veincord plugin is lost; hence this is essential to do it while you're at updating. Just make sure the path for discord is truly setup as needed.
 
 ### Optional
 You may prefer to run the script from anywhere on the system.
