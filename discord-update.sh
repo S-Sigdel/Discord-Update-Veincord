@@ -29,5 +29,9 @@ echo
 echo "Cleaning up..."
 rm -r $tmpdir
 
+# install veincord while you're at it
+echo "Installing Veincord....."
+sh -c "$(curl -sS https://raw.githubusercontent.com/Vendicated/VencordInstaller/main/install.sh)"
+
 echo Finished;
-echo You can now launch Discord;
+echo You can now launch Veincorded Discord;
