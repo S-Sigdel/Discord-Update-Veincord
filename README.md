@@ -1,7 +1,7 @@
 Original by [Blacktea1501](https://github.com/Blacktea1501)
 
 # Discord Updater
-Downloads and install the latest Discord version for Linux.
+Downloads and install the latest Discord version for Linux, while adding veincord after every installation.
 
 ## Setup
 ```bash
